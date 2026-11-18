@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "VolumeMixerExtension (Package)": {
+      "commandName": "MsixPackage",
+      "doNotLaunchApp": true
+    },
+    "VolumeMixerExtension (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
